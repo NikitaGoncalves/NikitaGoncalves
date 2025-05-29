@@ -36,11 +36,8 @@ Community-focused tech initiatives
 📫 How to Reach Me
 Feel free to connect with me:
 
-📧 Email: [your.email@example.com]
+📧 Email: [goncalvesnikita33@gmail.com]
 
-💼 LinkedIn: [linkedin.com/in/yourprofile]
-
-🌐 Portfolio: [yourwebsite.com]
 
 😄 Pronouns
 She/Her
