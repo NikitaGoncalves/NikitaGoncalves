@@ -44,7 +44,7 @@
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=goncalvesnikita33&theme=tokyonight&margin-w=10&column=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=goncalvesnikita33&theme=tokyonight&margin-w=10&column=4" alt="GitHub trophies"/>
 </p>
 
 ---
