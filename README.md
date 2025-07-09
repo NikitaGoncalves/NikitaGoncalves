@@ -44,7 +44,7 @@
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=goncalvesnikita33&theme=dracula&margin-w=10&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=goncalvesnikita33&theme=tokyonight&margin-w=10&column=4" alt="Trophies"/>
 </p>
 
 ---
@@ -58,9 +58,15 @@
 ---
 
 ### 🚀 Cool Projects:
-- [🔗 SmartContactBook](https://github.com/goncalvesnikita33/SmartContactBook)
-- [🔗 JOBI AI Platform](https://github.com/goncalvesnikita33/JOBI-AI)
-- [🔗 Street Legends Game](https://github.com/goncalvesnikita33/Street-Legends)
+
+- 🔗 [SmartContactBook – AI-powered contact manager](https://github.com/goncalvesnikita33/SmartContactBook)
+  <br/><img src="https://raw.githubusercontent.com/goncalvesnikita33/SmartContactBook/main/preview.png" width="400"/>
+
+- 🔗 [JOBI AI – Smart job assistant platform](https://github.com/goncalvesnikita33/JOBI-AI)
+  <br/><img src="https://raw.githubusercontent.com/goncalvesnikita33/JOBI-AI/main/preview.png" width="400"/>
+
+- 🔗 [Street Legends – HTML5 multiplayer game](https://github.com/goncalvesnikita33/Street-Legends)
+  <br/><img src="https://raw.githubusercontent.com/goncalvesnikita33/Street-Legends/main/preview.png" width="400"/>
 
 ---
 
